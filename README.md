@@ -14,9 +14,3 @@ At the end I made gandalf command and had a success with every part of test. Aft
 
 ## Usage
 Everything is working properly and you can use my project for another data
-
-### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
-<span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
